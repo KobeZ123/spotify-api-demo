@@ -3,20 +3,20 @@ This app demonstrates the usage of the Spotify API, accessing the user's data an
 
 # Demonstration 
 The user begins by logging into their Spotify account and authorizing the access of their Spotify API data.\
-![spotify-authorization](https://user-images.githubusercontent.com/57577392/188520056-710d4d82-7775-4b10-8cdd-afa8afb80ffc.PNG) \
+![spotify-authorization](https://user-images.githubusercontent.com/57577392/188520056-710d4d82-7775-4b10-8cdd-afa8afb80ffc.PNG) <br/>
 
 The user is greeted with a screen showing their profile and buttons to view their top artists, top tracks, and a search bar to find artists by name. \
-![spotify-profile](https://user-images.githubusercontent.com/57577392/188520108-f193a6d3-f07f-4b03-98d0-6b2b0ee9c2f2.PNG) \
+![spotify-profile](https://user-images.githubusercontent.com/57577392/188520108-f193a6d3-f07f-4b03-98d0-6b2b0ee9c2f2.PNG) <br/>
 
 Top 20 Artist Display \
-![spotify-top-artists-display](https://user-images.githubusercontent.com/57577392/188520133-9d025a9e-8e96-40f9-9fc2-7edb5e2980e9.PNG) \
+![spotify-top-artists-display](https://user-images.githubusercontent.com/57577392/188520133-9d025a9e-8e96-40f9-9fc2-7edb5e2980e9.PNG) <br/>
 
 Top 20 Tracks Display \
 
-![spotify-top-tracks-display](https://user-images.githubusercontent.com/57577392/188520144-207cccca-b22f-49d6-9daa-b369d3f95dc0.PNG) \
+![spotify-top-tracks-display](https://user-images.githubusercontent.com/57577392/188520144-207cccca-b22f-49d6-9daa-b369d3f95dc0.PNG) <br/>
 
 Search Results for the keyword "justin" \
-![spotify-search-results-display](https://user-images.githubusercontent.com/57577392/188520154-eea616ea-1d00-4d65-aec5-4edddfaf2d7b.PNG) \
+![spotify-search-results-display](https://user-images.githubusercontent.com/57577392/188520154-eea616ea-1d00-4d65-aec5-4edddfaf2d7b.PNG) <br/>
 
 
 
