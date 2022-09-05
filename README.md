@@ -1,4 +1,5 @@
 # Spotify API Demonstration 
+This app demonstrates the usage of the Spotify API, accessing the user's data and displaying their top 20 artists and tracks. It also features a search bar that enables the user to find artists of a given name.
 
 
 # Getting Started with Create React App
