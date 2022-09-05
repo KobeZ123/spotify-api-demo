@@ -36,3 +36,138 @@
     transform: rotate(360deg);
   }
 }
+
+.userInfo-profilepic {
+  width: 50%;
+  border-radius: 100%;
+}
+
+.button-main {
+  background-color: #1DB954;
+  outline: none;
+  border: none;
+  font-weight: bolder;
+  padding: .75rem 1.25rem;
+  border-radius: 10rem;
+  letter-spacing: .15rem;
+}
+
+.button-logout {
+  background-color: #F5C1CB;
+  outline: none;
+  border: none;
+  font-weight: bolder;
+  padding: .75rem 1.25rem;
+  border-radius: 10rem;
+  letter-spacing: .15rem;
+}
+
+.artist-card-container {
+  background-color: #1DB954;
+  padding: 1rem 1rem;
+  border-radius: 1rem;
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: medium;
+}
+
+.artist-image-container {
+  width: 128px;
+  height: 128px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+
+  /*background-image: url("https://cliparting.com/wp-content/uploads/2018/03/cool-pictures-2018-3.jpg");*/
+}
+
+.top-artists-grid {
+  display: grid;
+  grid-template-columns: 10rem 10rem 10rem 10rem;
+  grid-gap: 1rem;
+  grid-auto-flow: row;
+  padding: 1rem;
+}
+
+.top-artists-container {
+  background-color: orange;
+  border-radius: 1rem;
+  padding: 0.25rem 0rem;
+  margin: 1rem 0rem;
+}
+
+.track-card-container {
+  background-color: #1DB954;
+  padding: 1rem 1rem;
+  border-radius: 1rem;
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: medium;
+}
+
+.track-image-container {
+  width: 128px;
+  height: 128px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+
+  /*background-image: url("https://cliparting.com/wp-content/uploads/2018/03/cool-pictures-2018-3.jpg");*/
+}
+
+.top-tracks-grid {
+  display: grid;
+  grid-template-columns: 10rem 10rem 10rem 10rem;
+  grid-gap: 1rem;
+  grid-auto-flow: row;
+  padding: 1rem;
+}
+
+.top-tracks-container {
+  background-color: orangered;
+  border-radius: 1rem;
+  padding: 0.25rem 0rem;
+  margin: 1rem 0rem;
+}
+
+.search-result-container {
+  background-color: #F8F0E3;
+  padding: 0.5rem 2rem;
+  margin: 0.5rem 0rem;
+  border-radius: 0.5rem 0.5rem;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  font-size: larger;
+  color: black;
+}
+
+.search-image-container {
+  width: 64px;
+  height: 64px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+
+}
+
+.search-component-container {
+  width: 80%;
+}
+
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
